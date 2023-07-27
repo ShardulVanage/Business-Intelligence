@@ -112,7 +112,7 @@ export default function Hero() {
                 <div className="bg-white lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
                     <img
                         className="aspect-[3/2] object-cover lg:aspect-auto lg:h-full lg:w-full"
-                        src={businessimg}
+                        src='https://res.cloudinary.com/dtsuvx8dz/image/upload/v1690454009/business.c925b57008d932afc5eb_jmdn7g.jpg'
                         alt=""
                     />
                 </div>
