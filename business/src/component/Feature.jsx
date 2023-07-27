@@ -66,8 +66,9 @@ export default function Feature() {
                 <div className="mx-auto max-w-2xl sm:text-center">
                     <h2 className="text-3xl font-semibold leading-8 tracking-tight text-[#85a0e1]">Features of the course</h2>
 
-                    <p className="mt-6 text-lg leading-8 text-gray-300">
-                        India's No.1 Data Analytics Course having multiple features to excel and make you job ready for various roles.
+                    <p className="mt-6 text-lg text-center leading-8 text-gray-300 ">
+                        The best business intelligence course in India provides a wide range of features to equip you with the knowledge
+                        and abilities required to succeed and prepare you for a variety of positions in the industry.
                     </p>
                 </div>
             </div>

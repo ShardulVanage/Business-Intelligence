@@ -81,7 +81,7 @@ export default function Hero() {
                                     </h1>
                                     <p className="mt-6 text-lg leading-8 text-gray-600 text-left">
                                         India's premier Business Intelligence course offers a comprehensive range of features
-                                        to empower you with the skills needed to excel and become job-ready for diverse roles in the field.                                    </p>
+                                        to empower you with the skills needed to excel and become job-ready for diverse roles in the field.  </p>
                                 </motion.div>
                                 <motion.div {...fadeAnimation} className="mt-10 flex items-center gap-x-6">
                                     {/* <a href="https://rzp.io/l/ZepDAM">

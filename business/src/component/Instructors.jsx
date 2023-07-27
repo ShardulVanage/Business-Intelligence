@@ -2,7 +2,13 @@ import simg from "../Img/SatyajitPattnaik.png"
 import { AiFillYoutube } from 'react-icons/ai'
 import { slideAnimation } from './Motion'
 import { motion } from 'framer-motion'
+import React, { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css"
+
+
 const people = [
+
     {
 
         name: 'Satyajit Pattnaik',
@@ -17,6 +23,10 @@ const people = [
 ]
 
 export default function Instructor() {
+    useEffect(() => {
+        AOS.init();
+        AOS.refresh();
+    }, []);
     return (
         <div className="bg-gray-900">
             <div className="mx-auto max-w-7xl py-12 px-6 lg:px-4 lg:py-24">

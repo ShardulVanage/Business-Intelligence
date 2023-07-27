@@ -36,7 +36,7 @@ function GContact() {
                     </div>
 
                     <iframe className=' sm:w-3/4  w-full  h-screen'
-                        src="https://docs.google.com/forms/d/e/1FAIpQLSf7ZhEiDC-yeOBjFBeScTjyqY_MLqGa1tsFJEGvXlunlnLeBg/viewform"
+                        src="https://docs.google.com/forms/d/e/1FAIpQLSdWpJfU2b8WPOMjBRICCH9lTwaCja5mQLz-LttgRmTyEpBYdA/viewform"
                     >Loading…</iframe>
 
                 </div>

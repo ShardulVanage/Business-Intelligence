@@ -1,6 +1,5 @@
 import { useState } from 'react'
 
-import certifidcate from '../Img/google-data-analyst.jpeg'
 import { Link } from 'react-scroll'
 const navigation = [
     { name: 'Product', href: '#' },
@@ -49,7 +48,7 @@ export default function Certificate() {
                         <div className="mt-16 flow-root sm:mt-24">
                             <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
                                 <img
-                                    src="https://res.cloudinary.com/dtsuvx8dz/image/upload/v1687806740/rg5qlnclmmkiwux5o9vy.jpg"
+                                    src="https://res.cloudinary.com/dtsuvx8dz/image/upload/v1690449432/WhatsApp_Image_2023-07-26_at_9.31.45_PM_tq4ds6.jpg"
                                     alt="App screenshot"
                                     width={2000}
                                     height={600}
